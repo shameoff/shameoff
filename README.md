@@ -1,5 +1,7 @@
 ![Some gif](demo.gif)
 
+You can get acquainted with my CV [here](https://github.com/shameoff/CV)
+
 I'm currently looking for a job. If you have some, contact me, please
 
 <!--
