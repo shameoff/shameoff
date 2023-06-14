@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently looking for a job. If you have some, contact me, please
 
 <!--
 **shameoff/shameoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
