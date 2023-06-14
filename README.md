@@ -1,4 +1,4 @@
-[Some gif]("https://github.com/shameoff/shameoff/blob/main/demo.gif")
+![Some gif]("https://github.com/shameoff/shameoff/blob/main/demo.gif")
 
 I'm currently looking for a job. If you have some, contact me, please
 
