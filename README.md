@@ -1,4 +1,4 @@
-![Some gif]("demo.gif")
+![Some gif](demo.gif)
 
 I'm currently looking for a job. If you have some, contact me, please
 
